@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3a35e778cf31a43978c0393f19d84d, type: 3}
+  m_Name: 4-Super Corn
+  m_EditorClassIdentifier: 
+  plantName: Super Corn
+  plantStages:
+  - {fileID: 1653435488, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: -2005607602, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: 485919879, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: 379039575, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  timeBtwStages: 3
+  buyPrice: 30
+  sellPrice: 60
+  point: 90
+  icon: {fileID: -1380517034, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  dryPlanted: {fileID: -402884892, guid: 2a8db1c84627c2d43b9c63d7cae65d75, type: 3}

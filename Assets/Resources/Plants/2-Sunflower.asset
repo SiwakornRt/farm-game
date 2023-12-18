@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9f3a35e778cf31a43978c0393f19d84d, type: 3}
+  m_Name: 2-Sunflower
+  m_EditorClassIdentifier: 
+  plantName: Sunflower
+  plantStages:
+  - {fileID: -8018282, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: -1886621343, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: -276229586, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  - {fileID: -1309662544, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  timeBtwStages: 5
+  buyPrice: 20
+  sellPrice: 50
+  point: 80
+  icon: {fileID: 1251736783, guid: ae7fae5503d336b478b53ba0b35716d2, type: 3}
+  dryPlanted: {fileID: -402884892, guid: 2a8db1c84627c2d43b9c63d7cae65d75, type: 3}
